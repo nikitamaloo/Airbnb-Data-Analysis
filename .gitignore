@@ -22,3 +22,7 @@ docs/
 
 # Code coverage
 *.lst
+
+*.swp
+*.DS_Store
+.ipynb_checkpoints
